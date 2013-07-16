@@ -1,6 +1,0 @@
-D:\Projects\PassTheMaze\PassTheMaze\bin\Debug\PassTheMaze.exe.config
-D:\Projects\PassTheMaze\PassTheMaze\bin\Debug\PassTheMaze.exe
-D:\Projects\PassTheMaze\PassTheMaze\bin\Debug\PassTheMaze.pdb
-D:\Projects\PassTheMaze\PassTheMaze\obj\Debug\PassTheMaze.exe
-D:\Projects\PassTheMaze\PassTheMaze\obj\Debug\PassTheMaze.pdb
-D:\Projects\PassTheMaze\PassTheMaze\obj\Debug\PassTheMaze.csprojResolveAssemblyReference.cache
