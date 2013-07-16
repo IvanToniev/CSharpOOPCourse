@@ -1,0 +1,6 @@
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\03_StudentsNames\bin\Debug\03_StudentsNames.exe.config
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\03_StudentsNames\obj\Debug\03_StudentsNames.csprojResolveAssemblyReference.cache
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\03_StudentsNames\bin\Debug\03_StudentsNames.exe
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\03_StudentsNames\bin\Debug\03_StudentsNames.pdb
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\03_StudentsNames\obj\Debug\03_StudentsNames.exe
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\03_StudentsNames\obj\Debug\03_StudentsNames.pdb

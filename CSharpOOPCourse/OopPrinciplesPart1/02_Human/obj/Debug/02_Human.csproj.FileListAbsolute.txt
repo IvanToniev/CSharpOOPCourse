@@ -1,0 +1,6 @@
+D:\Projects\OopPrinciplesPart1\02_Human\bin\Debug\02_Human.exe.config
+D:\Projects\OopPrinciplesPart1\02_Human\bin\Debug\02_Human.exe
+D:\Projects\OopPrinciplesPart1\02_Human\bin\Debug\02_Human.pdb
+D:\Projects\OopPrinciplesPart1\02_Human\obj\Debug\02_Human.csprojResolveAssemblyReference.cache
+D:\Projects\OopPrinciplesPart1\02_Human\obj\Debug\02_Human.exe
+D:\Projects\OopPrinciplesPart1\02_Human\obj\Debug\02_Human.pdb

@@ -1,0 +1,6 @@
+D:\Projects\OopPrinciplesPart1\03_Animals\bin\Debug\03_Animals.exe.config
+D:\Projects\OopPrinciplesPart1\03_Animals\bin\Debug\03_Animals.exe
+D:\Projects\OopPrinciplesPart1\03_Animals\bin\Debug\03_Animals.pdb
+D:\Projects\OopPrinciplesPart1\03_Animals\obj\Debug\03_Animals.csprojResolveAssemblyReference.cache
+D:\Projects\OopPrinciplesPart1\03_Animals\obj\Debug\03_Animals.exe
+D:\Projects\OopPrinciplesPart1\03_Animals\obj\Debug\03_Animals.pdb

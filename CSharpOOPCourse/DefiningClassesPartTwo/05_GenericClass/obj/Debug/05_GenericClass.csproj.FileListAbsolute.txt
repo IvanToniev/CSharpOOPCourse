@@ -1,0 +1,6 @@
+D:\Projects\DefiningClassesPartTwo\05_GenericClass\obj\Debug\05_GenericClass.csprojResolveAssemblyReference.cache
+D:\Projects\DefiningClassesPartTwo\05_GenericClass\bin\Debug\05_GenericClass.exe.config
+D:\Projects\DefiningClassesPartTwo\05_GenericClass\bin\Debug\05_GenericClass.exe
+D:\Projects\DefiningClassesPartTwo\05_GenericClass\bin\Debug\05_GenericClass.pdb
+D:\Projects\DefiningClassesPartTwo\05_GenericClass\obj\Debug\05_GenericClass.exe
+D:\Projects\DefiningClassesPartTwo\05_GenericClass\obj\Debug\05_GenericClass.pdb

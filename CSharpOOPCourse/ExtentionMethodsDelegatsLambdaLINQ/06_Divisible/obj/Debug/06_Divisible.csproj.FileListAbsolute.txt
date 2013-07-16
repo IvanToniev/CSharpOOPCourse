@@ -1,0 +1,5 @@
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\06_Divisible\bin\Debug\06_Divisible.exe.config
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\06_Divisible\bin\Debug\06_Divisible.exe
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\06_Divisible\bin\Debug\06_Divisible.pdb
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\06_Divisible\obj\Debug\06_Divisible.exe
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\06_Divisible\obj\Debug\06_Divisible.pdb

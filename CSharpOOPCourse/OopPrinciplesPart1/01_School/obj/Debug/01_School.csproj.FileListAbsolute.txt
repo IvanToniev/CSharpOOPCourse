@@ -1,0 +1,6 @@
+D:\Projects\OopPrinciplesPart1\01_School\bin\Debug\01_School.exe.config
+D:\Projects\OopPrinciplesPart1\01_School\obj\Debug\01_School.csprojResolveAssemblyReference.cache
+D:\Projects\OopPrinciplesPart1\01_School\bin\Debug\01_School.exe
+D:\Projects\OopPrinciplesPart1\01_School\bin\Debug\01_School.pdb
+D:\Projects\OopPrinciplesPart1\01_School\obj\Debug\01_School.exe
+D:\Projects\OopPrinciplesPart1\01_School\obj\Debug\01_School.pdb

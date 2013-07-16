@@ -1,0 +1,6 @@
+D:\Projects\DefiningClassesPartTwo\01_3DPoint\bin\Debug\01_3DPoint.exe.config
+D:\Projects\DefiningClassesPartTwo\01_3DPoint\bin\Debug\01_3DPoint.exe
+D:\Projects\DefiningClassesPartTwo\01_3DPoint\bin\Debug\01_3DPoint.pdb
+D:\Projects\DefiningClassesPartTwo\01_3DPoint\obj\Debug\01_3DPoint.csprojResolveAssemblyReference.cache
+D:\Projects\DefiningClassesPartTwo\01_3DPoint\obj\Debug\01_3DPoint.exe
+D:\Projects\DefiningClassesPartTwo\01_3DPoint\obj\Debug\01_3DPoint.pdb

@@ -1,0 +1,6 @@
+D:\Projects\OopPrinciples2\02_Bank\bin\Debug\02_Bank.exe.config
+D:\Projects\OopPrinciples2\02_Bank\obj\Debug\02_Bank.csprojResolveAssemblyReference.cache
+D:\Projects\OopPrinciples2\02_Bank\bin\Debug\02_Bank.exe
+D:\Projects\OopPrinciples2\02_Bank\bin\Debug\02_Bank.pdb
+D:\Projects\OopPrinciples2\02_Bank\obj\Debug\02_Bank.exe
+D:\Projects\OopPrinciples2\02_Bank\obj\Debug\02_Bank.pdb

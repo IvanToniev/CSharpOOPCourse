@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PassTheMaze.Block" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassTheMaze.ConsoleRenderer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAABAAAAIAAAAAABAAACAAAAEAAAA=</HashCode>
+      <FileName>ConsoleRenderer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PassTheMaze.Engine" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAFAAAAEAAAAAAAAAAAAAFAgAAAABAgQAAAAEwAI=</HashCode>
+      <FileName>Engine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PassTheMaze.Exit" Collapsed="true">
+    <Position X="2" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Exit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassTheMaze.GameObject" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAABAQAAAAABAQAQAAAAQAAIAAAAEAEAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PassTheMaze.IndestructibleBlock" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>IndestructibleBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassTheMaze.Key" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAEAAAAAAAAAAQAQAAAAAAAAAA=</HashCode>
+      <FileName>Key.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassTheMaze.KeyboardInterface" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAQAEAAEAAAAAAgAAAAAAAAAAAACAA=</HashCode>
+      <FileName>KeyboardInterface.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PassTheMaze.MatrixCoords" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAwAEAAAAAAAEAAoAAAAAAAAAAAAA=</HashCode>
+      <FileName>MatrixCoords.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassTheMaze.PassTheMazeMain" Collapsed="true">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAQAAAAAECAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>PassTheMazeMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassTheMaze.Player" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAAAAAAAAAAAAAAEAAAAAAAIQIQAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PassTheMaze.IMoves" Collapsed="true">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAgQAAAAEAAA=</HashCode>
+      <FileName>IMoves.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PassTheMaze.IObjectProducer" Collapsed="true">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>IObjectProducer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PassTheMaze.IRenderable" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IRenderable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PassTheMaze.IRenderer" Collapsed="true">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>IRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PassTheMaze.IUserInterface" Collapsed="true">
+    <Position X="13.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAQAEAAEAAAAAAgAAAAAAAAAAAACAA=</HashCode>
+      <FileName>IUserInterface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

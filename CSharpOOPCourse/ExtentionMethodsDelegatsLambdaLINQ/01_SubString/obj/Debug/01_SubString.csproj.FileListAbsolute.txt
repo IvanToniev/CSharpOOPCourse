@@ -1,0 +1,6 @@
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\01_SubString\bin\Debug\01_SubString.exe.config
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\01_SubString\obj\Debug\01_SubString.csprojResolveAssemblyReference.cache
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\01_SubString\bin\Debug\01_SubString.exe
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\01_SubString\bin\Debug\01_SubString.pdb
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\01_SubString\obj\Debug\01_SubString.exe
+D:\Projects\ExtentionMethodsDelegatsLambdaLINQ\01_SubString\obj\Debug\01_SubString.pdb

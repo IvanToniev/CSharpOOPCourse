@@ -1,0 +1,6 @@
+D:\Projects\DefiningClassesPartOne\GsmCall\bin\Debug\GsmCall.exe.config
+D:\Projects\DefiningClassesPartOne\GsmCall\bin\Debug\GsmCall.exe
+D:\Projects\DefiningClassesPartOne\GsmCall\bin\Debug\GsmCall.pdb
+D:\Projects\DefiningClassesPartOne\GsmCall\obj\Debug\GsmCall.csprojResolveAssemblyReference.cache
+D:\Projects\DefiningClassesPartOne\GsmCall\obj\Debug\GsmCall.exe
+D:\Projects\DefiningClassesPartOne\GsmCall\obj\Debug\GsmCall.pdb
